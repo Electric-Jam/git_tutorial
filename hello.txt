@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 my github address is...
+=======
+my name is snu
+>>>>>>> my_branch
